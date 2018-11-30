@@ -11,6 +11,9 @@ Read report.pdf for details, such as:
   Parameters chosen during implementation and why
   Conclusion on whether ensemble method improves performance of the basic classification method you chose, why or why not
   
-Near the top of each .py file, you can comment/uncomment the 'with open' commands to run the programs on the various testing and training 
-data sets.
+You can run either decision tree or random forest on the various sets of data with one of:
+
+python RandomForest.py train_file test_file
+OR
+python DecisionTree.py train_file test_file
   
