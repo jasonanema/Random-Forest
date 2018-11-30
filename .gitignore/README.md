@@ -9,7 +9,8 @@ Read report.pdf for details, such as:
   Brief introduction to classification methods and classification framework
   Model Evaluation Measures
   Parameters chosen during implementation and why
-  Conclusion on whether ensemble method improves performance of the basic classification method you chose, why or why not
+  Conclusion on whether ensemble method improves performance of the basic classification method you chose, why or why no
+  
   
 You can run either decision tree or random forest on the various sets of data with one of:
 
