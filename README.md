@@ -9,3 +9,5 @@ Read report.pdf for details, such as: Brief introduction to classification metho
 You can run either decision tree or random forest on the various sets of data with one of:
 
 python RandomForest.py train_file test_file OR python DecisionTree.py train_file test_file
+
+The data sets are all JSON format were Each line contains an instance and is ended by a '\n' character. <label> is an integer indicating the class label. The pair <index>: <value> gives a feature (attribute) value: <index> is a non­negative integer and <value> is a number (we only consider categorical attributes). Note that one attribute may have more than 2 possible values, meaning it is a multi-value categorical attribute.
