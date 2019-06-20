@@ -4,7 +4,7 @@ This repository contains python code for a decision tree and a random forest cla
 
 Used Python version 2.7.6 and only used built-in libraries (datetime, random, sys).
 
-Read report.pdf for details, such as: Brief introduction to classification methods and classification framework, Model Evaluation Measures Parameters chosen during implementation and why, & Conclusion on whether ensemble method improves performance of the basic classification method I chose, why or why no
+Read report.pdf for details, such as: Brief introduction to classification methods and classification framework, Model Evaluation Measures Parameters chosen during implementation and why, & Conclusion on whether ensemble method improves performance of the basic classification method I chose, why or why not.
 
 You can run either decision tree or random forest on the various sets of data with one of:
 
